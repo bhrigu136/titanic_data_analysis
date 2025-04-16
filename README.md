@@ -57,8 +57,6 @@ This project uses the Titanic dataset from Kaggle to build a classification mode
 | Logistic Regression| ~77%               |
 | Random Forest      | ~83%               |
 
-> 📝 Note: Exact accuracy may vary depending on random split and data processing.
-
 ---
 
 ## 🔍 Key Insights
